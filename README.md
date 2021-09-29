@@ -11,5 +11,10 @@
 ![IMAGE](ss1.png)
 ![IMAGE](ss2.png)
 
+
+#VIDEO OBJECT DETECTION
+
+![VIDEO](vide-demo.mp4)
+
 - Tools used
 - Thank You
