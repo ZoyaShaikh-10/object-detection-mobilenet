@@ -14,7 +14,7 @@
 
 #VIDEO OBJECT DETECTION
 
-![VIDEO](vide-demo.mp4)
+![VIDEO](video-demo.mp4)
 
 - Tools used
 - Thank You
