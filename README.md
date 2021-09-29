@@ -17,4 +17,10 @@
 ![GIF](demo-video.gif)
 
 - Tools used
+    - openCV
+    - matplotlib.pyplot
+    - coco.names
+    - mobilenet SSD
+    
+    
 - Thank You
